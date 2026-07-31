@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Apple Music
+Comment=Apple Music como app (Chrome con perfil dedicado)
+Exec=/home/r/.local/bin/apple-music
+Icon=/home/r/.local/share/icons/apple-music.png
+Terminal=false
+Categories=AudioVideo;Audio;Music;Player;
+StartupWMClass=chrome-music.apple.com__-Default
+Keywords=music;apple;streaming;

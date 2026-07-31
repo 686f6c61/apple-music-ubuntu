@@ -1,0 +1,29 @@
+# Secretos y credenciales — nunca subir
+*.key
+*.pem
+*.p12
+*.pfx
+*.keystore
+*.crt
+id_rsa*
+*.env
+.env*
+!.env.example
+*secret*
+*credential*
+*password*
+*clave*
+
+# Perfil de Chrome / datos de sesión (cookies, contraseñas, login)
+apple-music-chrome/
+**/Default/Cookies*
+**/Default/Login Data*
+**/Default/Web Data*
+**/Local State
+
+# Sistema
+*.log
+*.tmp
+*~
+.DS_Store
+Thumbs.db
